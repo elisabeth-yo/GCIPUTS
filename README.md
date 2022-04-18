@@ -1,2 +1,2 @@
 # GCIPUTS
-https://elisabeth-yo.github.io/GCIPUTS/viewer.html
+https://elisabeth-yo.github.io/GCIPUTS/index.html
